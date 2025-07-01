@@ -1,1 +1,22 @@
+body{background-color:rgb(120, 151, 187);} /*Para o fundo do site ter uma cor suave*/
+
+#titulo_nome{ text-align: center;}  /* Alinhas o titulo */
+
+#biografia{font-size: 20px; text-align: justify;} /* Para o parágrafo da minha biografia ficar com fonte maior e justificado*/
+
+.botao{display: block; margin-left: auto; margin-right: auto;}
+
+#mensagem_motivacional{text-align: center; color: white; font-size: 35px;}
+
+.sub_titulo{text-align: center;}
+
+ul li{text-align: center;margin-bottom: 10px;} /* Pra dar espaçamento entre os itens da tabela de hobbies*/
+
+#img_hobbie{display: block; margin-left: auto; margin-right: auto;border-radius: 10%; width: 300px; ; height: auto; }
+
+#tabela_paises{ margin-left: auto; margin-right: auto;}
+
+.bandeira{width: 200px; height: 100px;}
+
+#corinthians:hover{color: black;}
 
